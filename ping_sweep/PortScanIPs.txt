@@ -1,0 +1,3 @@
+# Nmap 7.80 scan initiated Wed Mar  8 01:33:47 2023 as: nmap -T4 -sV -A -iL discoveredIPs.txt -oN PortScanIPs.txt --append-output
+WARNING: No targets were specified, so 0 hosts scanned.
+# Nmap done at Wed Mar  8 01:33:47 2023 -- 0 IP addresses (0 hosts up) scanned in 0.51 seconds
